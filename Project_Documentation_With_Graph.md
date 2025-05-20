@@ -103,7 +103,7 @@ We also refer to standard machine learning practices including:
 
 ### Graph
 
-![Training Loss Graph](github.com/assets/images/WhatsAppImage2025-04-30at10.52.52AM.jpeg)
+![Training Loss Graph](https://github.com/FIREBOYY11/NeuralNetworkDocumentation/blob/main/WhatsApp%20Image%202025-04-30%20at%2010.52.52%20AM.jpeg)
 
 ---
 
